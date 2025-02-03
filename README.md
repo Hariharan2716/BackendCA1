@@ -10,3 +10,5 @@
 Add node modules to git ignore. and pushed the code to git repository on the git hub
 
 4. This is based on a login page responsiveness the server should as the user to not leave the username, email and password area to be empty or blank.
+
+5. Deployment link: http:/3000/localhost:<name>
